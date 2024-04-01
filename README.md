@@ -1,4 +1,6 @@
 # **E-Blink**
+E-blink is a program to track eye blinks using a camera, it uses a CNN algorithm to classify between closed and open eyes.
+
 ## Spesification and Os
 1. Raspberry Pi 3 Model b+
 2. 7inch Capacitive Touch Screen LCD (H) with Case, 1024×600, HDMI, IPS, Various Systems Support
