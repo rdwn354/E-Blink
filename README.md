@@ -11,7 +11,6 @@
 - tflite-runtime
 
 ### Install OpenCV Raspberry
-step by step
 1. sudo git clone https://github.com/freedomwebtech/rpi-bullseye-opencv4.5.5.git
 2. cd rpi-bullseye-opencv4.5.5
 3. sudo chmod 775 install.sh
