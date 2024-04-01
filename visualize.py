@@ -1,10 +1,10 @@
+import os
+import csv
 import tkinter as tk
 from tkinter import ttk
+import matplotlib.pyplot as plt
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-import csv
-import matplotlib.pyplot as plt
-import os
 
 
 class BlinkAnalyzer:
