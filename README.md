@@ -17,7 +17,8 @@ E-blink is a program to track eye blinks using a camera, it uses a CNN algorithm
 2. cd rpi-bullseye-opencv4.5.5
 3. sudo chmod 775 install.sh
 4. sudo ./install.sh
-this step will be take at least 2 hours
+(this step will be take at least 2 hours)
+
 
 ### Install Matplotlib
 1. sudo apt-get update && sudo apt-get upgrade
